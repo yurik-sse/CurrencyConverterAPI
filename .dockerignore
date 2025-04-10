@@ -1,0 +1,10 @@
+bin/
+obj/
+*.db
+*.pfx
+.vscode/
+*.user
+*.suo
+Dockerfile
+.dockerignore
+.env
